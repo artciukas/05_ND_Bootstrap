@@ -5,7 +5,7 @@ body{
     font-family: "Lato";
     font-weight: 300;
     font-size: 16px;
-    color: #555;
+    color: #D8D9DE;
     
     -webkit-font-smoothing: antialiased;
     -webkit-overflow-scrolling: touch;
@@ -15,7 +15,7 @@ body{
 h1, h2, h3, h4, h5, h6, p{
     font-family: "Raleway";
     font-weight: 300;
-    color: #333;
+    color: #F3B54A;
 } 
 
 p {
@@ -28,25 +28,25 @@ p {
 }
 
 a{
-    color: #f85c37;
+    color: #F3B54A;
 }
 
 a:hover, a:focus{
-    color: #7b7b7b;
+    color: #393B45
     text-decoration: none;
     outline: 0;
 }
 
 .color{
-    background-color: #7b7b7b;
+    
     border-radius: 8px;
     margin-top: 75px;
 }
 
 .image{
-    margin:15px;
+  
     transition: 0.5s;
-    width: 100px;
+    width: 230px;
     height: auto;
     filter: blur(2px);
 }
@@ -58,7 +58,7 @@ a:hover, a:focus{
 
 .image:hover{
     
-    width:110px;
+    width:240px;
     filter: blur(0px);
 }
 
